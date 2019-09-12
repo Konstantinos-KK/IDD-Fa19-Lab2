@@ -1,20 +1,4 @@
 # Make a Digital Timer!
- 
-## Overview
-For this assignment, you are going to 
-
-A) [Solder your LCD panel](#part-a-solder-your-lcd-panel)
-
-B) [Write text to an LCD Panel](#part-b-writing-to-the-lcd) 
-
-c) [Using a time-based digital sensor!](#part-c-using-a-time-based-digital-sensor)
-
-D) [Make your Arduino sing!](#part-d-make-your-arduino-sing)
-
-E) [Make your own timer](#part-e-make-your-own-timer) 
- 
-## In The Report
-Include your responses to the bold questions on your own fork of [this lab report template](https://github.com/FAR-Lab/IDD-Fa18-Lab2). Include snippets of code that explain what you did. Deliverables are due next Tuesday. Post your lab reports as README.md pages on your GitHub, and post a link to that on your main class hub page.
 
 ## Part A. Solder your LCD panel
 
