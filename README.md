@@ -1,5 +1,7 @@
 # Make a Digital Timer!
 
+[Pre-Lab work can be found here](https://github.com/Konstantinos-KK/IDD-Lab2-Prep/tree/master)
+
 ## Part A. Solder your LCD panel
 
 **Take a picture of your soldered panel and add it here!**
