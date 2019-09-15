@@ -17,7 +17,7 @@
 
  <p align="center"> <b> Hello world </b> <p>
 <p align="center">
-  <img width="600" src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/soldered_lcd.jpg">
+  <img width="600" src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/hello_world.jpg">
 </p>
 
 **a. What voltage level do you need to power your display?** The display requires a potential difference of 5V at the VDD port but additional voltage at the V0 port which also regulated the brightness.
