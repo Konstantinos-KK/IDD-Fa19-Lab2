@@ -26,10 +26,18 @@
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?** A mistake was that my LCD was not working. To fix the mistake I had to test with another LCD. The soldering seemed fine so I got a new LCD and everything worked perfectly.
 
-**d. What line of code do you need to change to make it flash your name instead of "Hello World"?** The line I had to change was lcd.print("hello, world!"); and replace the text inside the quotation marks with my name:
+**d. What line of code do you need to change to make it flash your name instead of "Hello World"?** 
+
+The line I had to change was:
+``` C++
+lcd.print("hello, world!");  
+```
+Replace the text inside the quotation marks with my name:
+
 ``` C++
 (lcd.print("Konstantinos");).
  ```
+ 
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 [Multimeter Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/analoginput.ino)
 
