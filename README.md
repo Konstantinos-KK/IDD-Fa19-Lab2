@@ -26,8 +26,10 @@
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?** A mistake was that my LCD was not working. To fix the mistake I had to test with another LCD. The soldering seemed fine so I got a new LCD and everything worked perfectly.
 
-**d. What line of code do you need to change to make it flash your name instead of "Hello World"?** The line I had to change was lcd.print("hello, world!"); and replace the text inside the quotation marks with my name (lcd.print("Konstantinos");).
- 
+**d. What line of code do you need to change to make it flash your name instead of "Hello World"?** The line I had to change was lcd.print("hello, world!"); and replace the text inside the quotation marks with my name:
+``` C++
+(lcd.print("Konstantinos");).
+ ```
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 [Multimeter Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/analoginput.ino)
 
@@ -49,7 +51,7 @@
   for(int i = 0; i < 8; i++) {
     noteDurations[i] *= 2;}
 ```
-[code 2x](https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/tone2x.ino)
+[Code 2x](https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/tone2x.ino)
  
 **b. What song is playing?** Star wars theme song
 
