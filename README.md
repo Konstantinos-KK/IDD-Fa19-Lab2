@@ -75,4 +75,6 @@ Replace the text inside the quotation marks with my name:
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 [Video in action](https://youtu.be/zX94qzmblz8)
+
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
