@@ -66,6 +66,13 @@ Replace the text inside the quotation marks with my name:
 
 ## Part E. Make your own timer
 
-**a. Make a short video showing how your timer works, and what happens when time is up!**
+[Code for timer](https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/final_lab2.ino)
 
+ <p align="center"> <b> Light-it-up minigame </b> <p>
+<p align="center">
+  <img width="600" src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/final_image.jpg">
+</p>
+
+**a. Make a short video showing how your timer works, and what happens when time is up!**
+[Video in action](https://youtu.be/zX94qzmblz8)
 **b. Post a link to the completed lab report your class hub GitHub repo.**
