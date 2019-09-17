@@ -159,6 +159,7 @@ void loop() {
       lcd.print("Wrong option");
       lcd.setCursor(0, 1);
       lcd.print("Restart the game");
+      melody_sad();
       exit(1);}
       } else if (bs2==1) {
         if (order[o]==2){  
@@ -170,6 +171,7 @@ void loop() {
         lcd.print("Wrong option");
         lcd.setCursor(0, 1);
         lcd.print("Restart the game");
+        melody_sad();
         exit(1);}
       }else if (bs3==1) {
         if (order[o]==3){  
@@ -181,6 +183,7 @@ void loop() {
           lcd.print("Wrong option");
           lcd.setCursor(0, 1);
           lcd.print("Restart the game");
+          melody_sad();
           exit(1);}
       }
   }
