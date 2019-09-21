@@ -41,7 +41,7 @@ Replace the text inside the quotation marks with my name:
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 [Multimeter Code](https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/analoginput.ino)
 
-<p align="center"> <b> Circuit Diiagram  </b> </p>
+<p align="center"> <b> Multimeter 0V and 5V  </b> </p>
 <p float="left">
   <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/lowly_0.jpg" width="425" />
   <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab2/blob/master/lowly_5.jpg" width="425" /> 
